@@ -1,3 +1,8 @@
 def fun():
+<<<<<<< HEAD
     print("Jame
     我是真的很不错
+
+    print("Jame做了
+    您好
+>>>>>>> Jame_dev
